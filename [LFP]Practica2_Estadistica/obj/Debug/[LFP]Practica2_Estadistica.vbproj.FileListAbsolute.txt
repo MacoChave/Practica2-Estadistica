@@ -1,0 +1,14 @@
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\bin\Debug\[LFP]Practica2_Estadistica.exe.config
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\bin\Debug\[LFP]Practica2_Estadistica.exe.manifest
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\bin\Debug\[LFP]Practica2_Estadistica.application
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\bin\Debug\[LFP]Practica2_Estadistica.exe
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\bin\Debug\[LFP]Practica2_Estadistica.pdb
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\bin\Debug\[LFP]Practica2_Estadistica.xml
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\obj\Debug\_LFP_Practica2_Estadistica.Form1.resources
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\obj\Debug\_LFP_Practica2_Estadistica.Resources.resources
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\obj\Debug\[LFP]Practica2_Estadistica.vbproj.GenerateResource.Cache
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\obj\Debug\[LFP]Practica2_Estadistica.exe.manifest
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\obj\Debug\[LFP]Practica2_Estadistica.application
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\obj\Debug\[LFP]Practica2_Estadistica.exe
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\obj\Debug\[LFP]Practica2_Estadistica.xml
+C:\Users\u\Visual Studio 2013\[LFP]Practica2_Estadistica\[LFP]Practica2_Estadistica\obj\Debug\[LFP]Practica2_Estadistica.pdb
